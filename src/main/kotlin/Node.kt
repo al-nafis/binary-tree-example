@@ -1,0 +1,1 @@
+data class Node(var value: User, var left: Node? = null, var right: Node? = null)
